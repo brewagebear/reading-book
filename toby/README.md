@@ -16,4 +16,4 @@
 정리 자료는 `.pdf` 혹은 `.ppt`, `.md` 파일 등 자유롭게 작성 후에 PR을 한다. 
 
 발표 자료 이름은 `챕터 숫자-챕터명-.확장자` 로 갖게한다.
-e.g) `1-object-and-dependency.md
+e.g) `1-object-and-dependency.md`
